@@ -12,6 +12,7 @@ LV_IMG_DECLARE(gif_standby);
 LV_IMG_DECLARE(gif_homing);
 LV_IMG_DECLARE(gif_probing);
 LV_IMG_DECLARE(gif_qgling);
+LV_IMG_DECLARE(gif_input_shaping);
 LV_IMG_DECLARE(gif_heated);
 LV_IMG_DECLARE(gif_print);
 LV_IMG_DECLARE(gif_print_ok);

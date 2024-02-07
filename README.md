@@ -1,18 +1,23 @@
-# KNOMI1
+# Unofficial Zero G Knomi firmware
+
+## Initial release
+New Zero G Animated logo with an animated Emoji based theme to replace the default Knomi faces animations. This releace includes a new animation for input shaping triggered by the SHAPER_CALIBRATE gcode.
+
+## KNOMI1
 Online manual & customize UI tutorials：[here](https://bigtreetech.github.io/docs/KNOMI.html#)
 
-# KNOMI2
+## KNOMI2
 Online manual ：[here](https://bigtreetech.github.io/docs/KNOMI2.html#)
 
-# Klipper config
+## Klipper config
 
-[KNOMI.cfg](./KNOMI.cfg) is the klipper config of the [latest version firmware](https://github.com/bigtreetech/KNOMI/tree/firmware)
+[KNOMI.cfg](./KNOMI.cfg) is the klipper config of the [latest version firmware](https://github.com/JonathanBourassa/Unofficial-ZeroG-KNOMI/tree/firmware)
 
 
-# Firmware source code
-[Here](https://github.com/bigtreetech/KNOMI/tree/firmware) is the firmware source code for both KNOMI1 and KNOMI2.
+## Firmware source code
+[Here](https://github.com/JonathanBourassa/Unofficial-ZeroG-KNOMI/tree/firmware) is the Zero G firmware source code for both KNOMI1 and KNOMI2.
 
-# Firmware update
+## Firmware update
 ### OTA
 * Download the pre compiled firmware from GitHub([KNOMI1](./KNOMI1/Firmware/knomi1_firmware.bin) and [KNOMI2](./KNOMI2/Firmware/knomi2_firmware.bin)) or build your own firmware
 * Enter KNOMI's IP or hostname (default is `knomi.local`) in the browser of a device with the same LAN as knomi, and then click `Update FW`<br/>

@@ -1,5 +1,8 @@
 # Unofficial Zero G Knomi firmware
 
+## Initial release
+New Zero G Animated logo with an animated Emoji based theme to replace the default Knomi faces animations. This releace includes a new animation for input shaping triggered by the SHAPER_CALIBRATE gcode.
+
 ## KNOMI1
 Online manual & customize UI tutorials：[here](https://bigtreetech.github.io/docs/KNOMI.html#)
 

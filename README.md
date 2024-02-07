@@ -4,10 +4,12 @@
 New Zero G Animated logo with an animated Emoji based theme to replace the default Knomi faces animations. This releace includes a new animation for input shaping triggered by the SHAPER_CALIBRATE gcode.
 
 ## KNOMI1
-Online manual & customize UI tutorials：[here](https://bigtreetech.github.io/docs/KNOMI.html#)
+* Zero G & Emoji theme firmware : [here](https://github.com/JonathanBourassa/Unofficial-ZeroG-KNOMI/tree/master/KNOMI1/Firmware/Emoji%20Theme)
+* Online manual & customize UI tutorials ： [here](https://bigtreetech.github.io/docs/KNOMI.html#)
 
 ## KNOMI2
-Online manual ：[here](https://bigtreetech.github.io/docs/KNOMI2.html#)
+* Zero G & Emoji theme firmware : [here](https://github.com/JonathanBourassa/Unofficial-ZeroG-KNOMI/tree/master/KNOMI2/Firmware/Emoji%20Theme)
+* Online manual : [here](https://bigtreetech.github.io/docs/KNOMI2.html#)
 
 ## Klipper config
 

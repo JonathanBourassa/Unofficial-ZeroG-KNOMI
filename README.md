@@ -2,6 +2,8 @@
 
 ## Initial release
 New Zero G Animated logo with an animated Emoji based theme to replace the default Knomi faces animations. This releace includes a new animation for input shaping triggered by the SHAPER_CALIBRATE gcode.
+####Video demo of the animations
+[![Unofficial Zero G Knomi Firmware](https://img.youtube.com/vi/QmbNUho1ItI/0.jpg)](https://www.youtube.com/watch?v=QmbNUho1ItI)
 
 ## KNOMI1
 * Zero G & Emoji theme firmware : [here](https://github.com/JonathanBourassa/Unofficial-ZeroG-KNOMI/tree/master/KNOMI1/Firmware/Emoji%20Theme)
@@ -21,7 +23,7 @@ New Zero G Animated logo with an animated Emoji based theme to replace the defau
 
 ## Firmware update
 ### OTA
-* Download the pre compiled firmware from GitHub([KNOMI1](./KNOMI1/Firmware/knomi1_firmware.bin) and [KNOMI2](./KNOMI2/Firmware/knomi2_firmware.bin)) or build your own firmware
+* Download the pre compiled firmware from GitHub([KNOMI1](./KNOMI1/Firmware/Emoji%20Theme/firmware.bin) and [KNOMI2](./KNOMI2/Firmware/Emoji%20Theme/firmware.bin)) or build your own firmware
 * Enter KNOMI's IP or hostname (default is `knomi.local`) in the browser of a device with the same LAN as knomi, and then click `Update FW`<br/>
 <img src=Images/ota_1.png width="400" /><br/>
 * Select the firmware file just downloaded to start updating. After the update is complete, KNOMI will automatically restart and run the new firmware.<br/>

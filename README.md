@@ -2,7 +2,7 @@
 
 ## Initial release
 New Zero G Animated logo with an animated Emoji based theme to replace the default Knomi faces animations. This releace includes a new animation for input shaping triggered by the SHAPER_CALIBRATE gcode.
-####Video demo of the animations
+###Video demo of the animations
 [![Unofficial Zero G Knomi Firmware](https://img.youtube.com/vi/QmbNUho1ItI/0.jpg)](https://www.youtube.com/watch?v=QmbNUho1ItI)
 
 ## KNOMI1

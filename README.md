@@ -1,4 +1,5 @@
 # Unofficial Zero G Knomi firmware
+If you like the project consider to [<img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi1.png' border='0' alt='Buy Me a Coffee at ko-fi.com' />](https://ko-fi.com/W7W3T4G2P)
 
 ## Initial release
 New Zero G Animated logo with an animated Emoji based theme to replace the default Knomi faces animations. This releace includes a new animation for input shaping triggered by the SHAPER_CALIBRATE gcode.

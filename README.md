@@ -6,6 +6,10 @@ New Zero G Animated logo with an animated Emoji based theme to replace the defau
 #### Video demo of the animations
 [![Unofficial Zero G Knomi Firmware](https://img.youtube.com/vi/QmbNUho1ItI/0.jpg)](https://www.youtube.com/watch?v=QmbNUho1ItI)
 
+## 2nd Release
+Improved Web UI with Navigation per Configuration Category, Supports Browser based Preference for Dark & Light Theme.
+Updated Homing Animation to something more related to the Action.
+
 ## KNOMI1
 * Zero G & Emoji theme firmware : [here](https://github.com/JonathanBourassa/Unofficial-ZeroG-KNOMI/tree/master/KNOMI1/Firmware/Emoji%20Theme)
 * Online manual & customize UI tutorials ： [here](https://bigtreetech.github.io/docs/KNOMI.html#)
@@ -15,7 +19,7 @@ New Zero G Animated logo with an animated Emoji based theme to replace the defau
 * Online manual : [here](https://bigtreetech.github.io/docs/KNOMI2.html#)
 
 ## Klipper config
-
+This firmware requires an extra configuration for the new Input Shaping Animation, you can find it in our config example:
 [KNOMI.cfg](./KNOMI.cfg) is the klipper config of the [latest version firmware](https://github.com/JonathanBourassa/Unofficial-ZeroG-KNOMI/tree/firmware)
 
 
